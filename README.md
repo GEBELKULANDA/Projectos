@@ -1,2 +1,2 @@
 # Projectos
- Projectos html, e css
+ Projectos de HTML5 e CSS3
