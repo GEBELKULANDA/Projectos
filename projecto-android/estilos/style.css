@@ -30,6 +30,7 @@ a.externo::after{
 body{
     background-color:var(--cor0);
     font-family: var(--fonte-padrao);
+    
 }
 
 main p {
@@ -38,6 +39,7 @@ main p {
         text-indent: 30px;
         line-height: 1.5em;
         font-size: 1em;
+    
 }
 main strong{
     color: var(--cor4);
