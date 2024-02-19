@@ -126,7 +126,7 @@ main{
 } 
 
 main img{
-    min-width: 450px;
+    min-width: 100%;
     max-width: 100%;
     
     
@@ -150,8 +150,8 @@ div.video{
 }
 div.video > iframe{
     position: absolute;
-    top: 5%;
-    left: 5%;
+    top:  4%;
+    left: 4%;
     width: 90%;
     height: 90%;
 
@@ -171,6 +171,7 @@ main h2{     /* header of main*/
 }          
    
 aside{
+    margin-top: 20px;: ;
     background-color: var(--cor1);
     padding: 10px;
     border-radius: 10px;
@@ -205,3 +206,4 @@ footer > p >a{
 footer  a:hover{
     text-decoration: urnderline;
 }
+
